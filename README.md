@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,gulp,react,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,gulp,react,redux,git,vscode)](https://skillicons.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
