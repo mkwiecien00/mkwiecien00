@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 <h3 align="center">An aspiring Junior Frontend Developer</h3>
 &nbsp;
 
-- 🌱 I’m currently learning **React, TypeScript**
+- 🔭 Currently working on a **project using React and its amazing ecosystem**
+
+- 🌱 Currently practicing React in-depth and planning to learn **TypeScript, Next.js**
 
 - 💬 Open to questions and thoughts about **web development**
 
