@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋🏻, I'm Gosia</h1>
-<h3 align="center">An aspiring Junior Frontend Developer</h3>
+<h3 align="center">Junior Frontend Developer</h3>
 &nbsp;
 
 - 🔭 Currently learning **TypeScript**
