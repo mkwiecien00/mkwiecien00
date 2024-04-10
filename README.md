@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h3 align="center">Junior Frontend Developer</h3>
 &nbsp;
 
-- 🔭 Currently learning **TypeScript**
+- 🔭 Currently working on a project using **React + TypeScript + Tailwind CSS** 
 
 - 🌱 Planning to learn **Next.js**
 
@@ -32,12 +32,12 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,gulp,react,redux,styledcomponents,materialui,vite,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,gulp,ts,react,redux,styledcomponents,materialui,vite,git,vscode)](https://skillicons.dev)
 
 
 <h3 align="left">Want to learn:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=tailwind,ts,nextjs,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,firebase)](https://skillicons.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
