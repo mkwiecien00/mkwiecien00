@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h3 align="center">Junior Frontend Developer</h3>
 &nbsp;
 
-- 🔭 Currently working on a project using **React + TypeScript + Tailwind CSS** 
+- 🔭 Currently working on a project using **React + TypeScript + Tailwind CSS** and learning **React Native**
 
 - 🌱 Planning to learn **Next.js**
 
